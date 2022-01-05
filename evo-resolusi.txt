@@ -2,3 +2,4 @@ Evo Resolusi
 - Belajar coding
 - Belajar JavaScript dan Python
 - Menambah berat badan
+- Memperdalami OOP
