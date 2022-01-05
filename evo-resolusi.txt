@@ -2,5 +2,6 @@ Evo Resolusi
 - Belajar coding
 - Belajar JavaScript dan Python
   > Animation
+  > Server
 - Menambah berat badan
 - Memperdalami OOP
