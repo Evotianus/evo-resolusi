@@ -1,6 +1,8 @@
 Evo Resolusi
 - Belajar coding
 - Belajar JavaScript dan Python
-  > Carousel
+  > Animation
+  > Server
+- Menambah berat badan
 - Memperdalami OOP
   > PHP
